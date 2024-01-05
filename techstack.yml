@@ -1,7 +1,8 @@
 repo_name: prettyleka/springdoc-openapi
 report_id: 8980fdb783d68f5dae95f2902ca68bf5
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T05:33:52+00:00'
+timestamp: '2024-01-05T08:51:48+00:00'
 requested_by: bnasslahsen
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/prettyleka/springdoc-openapi
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/prettyleka/springdoc-openapi
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/prettyleka/springdoc-openapi
   detection_source: Repo Metadata
 - name: QueryDSL
   description: Unified queries for Java
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/3881/da8da0c0e6dfbfc596f787ade49381a6_400x400.png
+  detection_source_url: https://github.com/prettyleka/springdoc-openapi/blob/master/springdoc-openapi-data-rest/pom.xml
   detection_source: springdoc-openapi-data-rest/pom.xml
   last_updated_by: bnasslahsen
   last_updated_on: 2020-08-07 22:44:25.000000000 Z
@@ -58,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/prettyleka/springdoc-openapi/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: JaneQ9900
   last_updated_on: 2022-10-25 12:09:18.000000000 Z
@@ -69,7 +75,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
-  detection_source: springdoc-openapi-hateoas/pom.xml
+  detection_source_url: https://github.com/prettyleka/springdoc-openapi/blob/master/springdoc-openapi-data-rest/pom.xml
+  detection_source: springdoc-openapi-data-rest/pom.xml
   last_updated_by: bnasslahsen
   last_updated_on: 2020-08-07 22:44:25.000000000 Z
 - name: Git
@@ -80,6 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/prettyleka/springdoc-openapi
   detection_source: Repo Metadata
 - name: Logback
   description: A logging framework for Java applications
@@ -89,6 +97,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
-  detection_source: springdoc-openapi-webmvc-core/src/test/resources/logback-test.xml
+  detection_source_url: https://github.com/prettyleka/springdoc-openapi/blob/master/springdoc-openapi-data-rest/src/test/resources/logback-test.xml
+  detection_source: springdoc-openapi-data-rest/src/test/resources/logback-test.xml
   last_updated_by: bnasslahsen
   last_updated_on: 2020-03-09 20:28:07.000000000 Z
