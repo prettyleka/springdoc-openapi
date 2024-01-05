@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 prettyleka/springdoc-openapi is built on the following main stack:
+
 - [Java](https://www.java.com) – Languages
 - [Groovy](https://groovy-lang.org/) – Languages
 - [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
@@ -11,11 +12,13 @@ prettyleka/springdoc-openapi is built on the following main stack:
 - [QueryDSL](http://www.querydsl.com/) – Java Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 prettyleka/springdoc-openapi is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png' alt='Groovy'/> [Groovy](https://groovy-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
@@ -25,14 +28,15 @@ prettyleka/springdoc-openapi is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/3881/da8da0c0e6dfbfc596f787ade49381a6_400x400.png' alt='QueryDSL'/> [QueryDSL](http://www.querydsl.com/) – Java Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [prettyleka/springdoc-openapi](https://github.com/prettyleka/springdoc-openapi)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|11/11/23 <br/>Report generated|
+|8<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -123,4 +127,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
